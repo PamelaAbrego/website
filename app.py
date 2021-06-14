@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request
 from logic.person_logic import PersonLogic
-import requests
 
 app = Flask(__name__)
 
