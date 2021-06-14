@@ -1,0 +1,13 @@
+HEROKU
+
+user:
+b7880256c85fc7
+
+password:
+dfdbe64a
+
+host:
+us-cdbr-east-04.cleardb.com/
+
+database:
+heroku_de080cfa793afc7
